@@ -1,0 +1,17 @@
+{
+  "name": "Hello World",
+  "short_name": "Hello",
+  "icons": [
+    {
+      "src": "images/ProfilAmbar (1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
